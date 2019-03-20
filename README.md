@@ -1,4 +1,4 @@
-LOGSTASH
+ELASTICSEARCH
 
 PRE-REQUISITES
 
@@ -8,7 +8,7 @@ Instructions on how to download chef can be found here: https://downloads.chef.i
 
 ABOUT THIS COOKBOOK
 
-This cookbook was designed to provision and test the environment for Logstasht, replacing the default yaml file with one in templates.
+This cookbook was designed to provision and test the environment for Elasticsearch, replacing the default yaml file with one in templates.
 
 TO TEST
 
